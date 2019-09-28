@@ -1,1 +1,3 @@
 Hello_world
+
+git pull = git fetch + git merge
